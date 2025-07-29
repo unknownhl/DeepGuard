@@ -17,7 +17,7 @@ The directory structure of this repository is shown as below:
 DeepGuard currently supports Qwen2.5-Coder, DeepSeek-Coder, and Seed-Coder. It should be straightforward to add support for other LLMs.
 
 ## Setup
-Set up Python dependencies (a virtual environment is recommended) and [GitHub CodeQL](https://github.com/github/codeql):
+Set up Python dependencies (a virtual environment is recommended) and GitHub CodeQL:
 ```console
 $ pip install -r requirements.txt
 $ pip install -e .
