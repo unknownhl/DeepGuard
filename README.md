@@ -133,19 +133,19 @@ DeepGuard can detect and mitigate various common code security vulnerabilities a
 
 | CWE ID | Vulnerability Name | Description | Supported Languages | Severity Level |
 |--------|-------------------|-------------|-------------------|----------------|
-| CWE-020 | Improper Input Validation | Inadequate input validation that may lead to various security issues | Python, C | High |
-| CWE-022 | Improper Limitation of a Pathname to a Restricted Directory | Path traversal vulnerability allowing access to files outside restricted directories | Python, C | High |
-| CWE-078 | OS Command Injection | Operating system command injection allowing execution of arbitrary system commands | Python, C | Critical |
-| CWE-079 | Cross-site Scripting (XSS) | Cross-site scripting attacks allowing execution of malicious scripts in user browsers | Python, C | High |
-| CWE-089 | SQL Injection | SQL injection attacks allowing manipulation of database queries | Python, C | Critical |
+| CWE-020 | Improper Input Validation | Inadequate input validation that may lead to various security issues | Python | High |
+| CWE-022 | Improper Limitation of a Pathname to a Restricted Directory | Path traversal vulnerability allowing access to files outside restricted directories | Python | High |
+| CWE-078 | OS Command Injection | Operating system command injection allowing execution of arbitrary system commands | Python | Critical |
+| CWE-079 | Cross-site Scripting (XSS) | Cross-site scripting attacks allowing execution of malicious scripts in user browsers | Python | High |
+| CWE-089 | SQL Injection | SQL injection attacks allowing manipulation of database queries | Python | Critical |
 | CWE-119 | Buffer Overflow | Buffer overflow that may lead to code execution or system crashes | C | Critical |
 | CWE-125 | Out-of-bounds Read | Out-of-bounds read that may lead to information disclosure | Python, C | Medium |
-| CWE-190 | Integer Overflow | Integer overflow that may lead to unexpected behavior or security vulnerabilities | Python, C | Medium |
+| CWE-190 | Integer Overflow | Integer overflow that may lead to unexpected behavior or security vulnerabilities | C | Medium |
 | CWE-416 | Use After Free | Use-after-free vulnerability that may lead to code execution or system crashes | C | Critical |
 | CWE-476 | NULL Pointer Dereference | NULL pointer dereference that may cause program crashes | C | Medium |
-| CWE-502 | Deserialization of Untrusted Data | Deserialization of untrusted data that may lead to code execution | Python, C | High |
+| CWE-502 | Deserialization of Untrusted Data | Deserialization of untrusted data that may lead to code execution | Python | High |
 | CWE-732 | Incorrect Permission Assignment | Incorrect permission assignment that may lead to unauthorized access | Python, C | Medium |
-| CWE-787 | Out-of-bounds Write | Out-of-bounds write that may lead to code execution or data corruption | Python, C | Critical |
+| CWE-787 | Out-of-bounds Write | Out-of-bounds write that may lead to code execution or data corruption | C | Critical |
 
 ### Vulnerability Statistics
 
