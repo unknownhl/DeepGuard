@@ -139,7 +139,7 @@ DeepGuard can detect and mitigate various common code security vulnerabilities a
 | CWE-079 | Cross-site Scripting (XSS) | Cross-site scripting attacks allowing execution of malicious scripts in user browsers | Python | High |
 | CWE-089 | SQL Injection | SQL injection attacks allowing manipulation of database queries | Python | Critical |
 | CWE-119 | Buffer Overflow | Buffer overflow that may lead to code execution or system crashes | C | Critical |
-| CWE-125 | Out-of-bounds Read | Out-of-bounds read that may lead to information disclosure | Python, C | Medium |
+| CWE-125 | Out-of-bounds Read | Out-of-bounds read that may lead to information disclosure | C | Medium |
 | CWE-190 | Integer Overflow | Integer overflow that may lead to unexpected behavior or security vulnerabilities | C | Medium |
 | CWE-416 | Use After Free | Use-after-free vulnerability that may lead to code execution or system crashes | C | Critical |
 | CWE-476 | NULL Pointer Dereference | NULL pointer dereference that may cause program crashes | C | Medium |
