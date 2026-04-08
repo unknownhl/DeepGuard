@@ -1,6 +1,4 @@
-# DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation
-
-This is the official repository for "DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation".
+# DeepGuard
 
 ![DeepGuard Architecture](./images/main.png)
 
